@@ -1,0 +1,6 @@
+{
+  "hostname": "填写服务器ip",
+  "port": 22,
+  "username": "服务器登录用户名",
+  "password": "用户器登录密码"
+}
